@@ -18,6 +18,7 @@
   font-family: sans-serif;
   cursor: pointer;
   line-height: 3;
+  border-radius: 15px;
 }
 .grid-item :hover {
   background-color:pink;
