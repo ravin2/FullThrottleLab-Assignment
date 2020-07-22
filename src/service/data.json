@@ -1,0 +1,364 @@
+{
+	"ok": true,
+	"members": [{
+			"id": "W012A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+        },
+        {
+			"id": "W01sad2A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QasdasdasCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+        },
+        {
+			"id": "W012dfgdfgfA3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07dfgdfgQCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+        },
+        {
+			"id": "W012xvxcvxcvxA3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07xcvxcvQCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+        },
+        {
+			"id": "W012asdasA3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRjdPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+        },
+        {
+			"id": "W07QqeqCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+        },
+        {
+			"id": "W012dfgdA3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QtrtytCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+        },
+        {
+			"id": "W012yuuyuA3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07kuiujmQCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+        },
+        {
+			"id": "W012qwqweqA3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPykyuA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+        },
+        {
+			"id": "W0121212312A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QhmghnhCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+        },
+        {
+			"id": "W07QqaqhmghnhCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		}
+	]
+}
